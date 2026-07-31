@@ -194,5 +194,5 @@ Cada pasta de dia contém:
 Estudante de Segurança da Informação (FATEC Santana de Parnaíba) | Em preparação para CCNA
 
 - 🔗 GitHub: [@viniciusmatos-sec](https://github.com/viniciusmatos-sec)
-- 💼 LinkedIn: [https://linkedin.com/in/vinicius-matos-3b16141b2]
-- 📧 Contato: [viniciusdiasmatos101@proton.me]
+- 💼 LinkedIn: [@viniciusmatos](https://linkedin.com/in/vinicius-matos-3b16141b2)
+- 📧 Contato: [@viniciusdiasmatos101@proton.me](viniciusdiasmatos101@proton.me)
